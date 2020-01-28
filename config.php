@@ -10,5 +10,5 @@ $lang = 'pt-br';
 /* Db conect */
 $db_host = 'localhost';
 $db_user = 'logs6';
-$db_password = 'passwd_db';
+$db_password = 'SUA_SENHA_AQUI';
 $db_name = 'logs6';
