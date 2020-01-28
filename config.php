@@ -1,5 +1,5 @@
 <?php
-/* Your security token  https://senhasegura.remontti.com.br/*/
+/* Your security token  https://randomkeygen.com/*/
 $token = 'xxxxxxxxxxxxxxxxxxxx';
 
 /* Set langage */
