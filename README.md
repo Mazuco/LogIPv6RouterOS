@@ -1,6 +1,7 @@
 # IPv6+IPv4 - PPPoE/DHCPv6 PD - Mikrotik/RouterOS
 
-https://blog.remontti.com.br/3931
+Script do curso de Mikrotik
+
 
 <img src="https://blog.remontti.com.br/wp-content/uploads/2020/01/logs_ipv6_remontti.png">
 
